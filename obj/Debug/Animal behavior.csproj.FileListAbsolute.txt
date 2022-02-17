@@ -1,0 +1,7 @@
+D:\c#\class time work\Animal behavior\Animal behavior\bin\Debug\Animal behavior.exe.config
+D:\c#\class time work\Animal behavior\Animal behavior\bin\Debug\Animal behavior.exe
+D:\c#\class time work\Animal behavior\Animal behavior\bin\Debug\Animal behavior.pdb
+D:\c#\class time work\Animal behavior\Animal behavior\obj\Debug\Animal behavior.csprojAssemblyReference.cache
+D:\c#\class time work\Animal behavior\Animal behavior\obj\Debug\Animal behavior.csproj.CoreCompileInputs.cache
+D:\c#\class time work\Animal behavior\Animal behavior\obj\Debug\Animal behavior.exe
+D:\c#\class time work\Animal behavior\Animal behavior\obj\Debug\Animal behavior.pdb
